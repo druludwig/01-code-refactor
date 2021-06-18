@@ -1,7 +1,8 @@
 # 01-code-refactor
 
 Highlights
-• Added company name to <Title> tag.
+
+Added company name to <Title> tag.
 • Replaced header DIV with header and adjusted corresponding CSS.
 • Moved “hero” image link from CSS to HTML.
     o	Added alt tag
