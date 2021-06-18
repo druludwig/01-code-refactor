@@ -8,6 +8,16 @@ body {
     background-color: #d9dcd6;
 }
 
+a {
+    color: #ffffff;
+    text-decoration: none;
+}
+
+
+p {
+    font-size: 16px;
+} 
+
 header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -39,15 +49,6 @@ header div ul {
 header div ul li {
     display: inline-block;
     margin-left: 25px;
-}
-
-a {
-    color: #ffffff;
-    text-decoration: none;
-}
-
-p {
-    font-size: 16px;
 }
 
 .hero img{
@@ -108,17 +109,14 @@ p {
     color: #ffffff;
 }
 
-
 .feature img {
     max-height: 200px;
 }
-
 
 .feature h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
-
 
 footer {
     padding: 30px;
